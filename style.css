@@ -1,0 +1,41 @@
+
+
+.center{
+    text-align: center;
+    font-size: 60px;
+    background-color: black;
+    color:floralwhite;
+}
+
+.about{
+    font-size: 30px;
+    
+}
+.para{
+text-align: center;
+font-size: 30px;
+color: lightslategrey;
+}
+
+body{
+background-color:black;
+}
+
+.origami{
+    color:blanchedalmond;
+    font-size: 30px;
+}
+
+.grid img{
+    border-radius: 10%;
+    display:flex;
+    flex:wrap;
+    flex:grid;
+
+}
+h3{
+    text-align: center;
+    font-size: 40px;
+   color:white ;
+}
+
